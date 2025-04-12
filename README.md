@@ -34,8 +34,3 @@ The materials in this repository are based on publicly available tutorials from 
 
 ---
 
-### **License**
-
-This repository is shared for educational purposes only. Feel free to use and modify the notebooks as part of your learning process. No commercial use is intended or permitted.
-
----
